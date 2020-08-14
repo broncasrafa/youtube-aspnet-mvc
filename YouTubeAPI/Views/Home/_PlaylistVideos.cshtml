@@ -1,0 +1,45 @@
+﻿@model IEnumerable<YouTubeAPI.Models.YouTubeVideo>
+
+@if (Model != null)
+{
+    if (Model.Count() > 0)
+    {
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <input type="checkbox" id="select_all" />
+                <label for="checkbox">Todos</label>
+
+                <div class="pull-right">
+                    <button id="btnDownload" class="btn btn-primary btn-sm">Download</button>
+                </div>
+            </div>
+            <div class="panel-body">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Formato</label>
+                    <select class="form-control" id="cboFormato">
+                        <option>Selecione</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Resolução</label>
+                    <select class="form-control" id="cboResolucao">
+                        <option>Selecione</option>
+                    </select>
+                </div>
+                <br />
+                <ul class="list-group">
+                    <li class="list-group-item" id="checkboxes">                        
+                        @foreach (var video in Model)
+                        {
+                            <div class="checkbox">
+                                <input type="checkbox" id="@video.Id" name="ckbVideo" class="checkbox" />
+                                <label for="checkbox_@video.Id">@video.Title</label>
+                            </div>
+                            <br />
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+    }
+}

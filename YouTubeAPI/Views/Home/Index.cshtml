@@ -1,0 +1,143 @@
+﻿@model IEnumerable<YouTubeAPI.Models.YouTubeVideo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="page-header">
+    <h4>Pesquisa de Videos do YouTube</h4>
+</div>
+<div class="row">
+
+    @using (Ajax.BeginForm("Index", "Home", new AjaxOptions { HttpMethod = "Get", InsertionMode = InsertionMode.Replace, UpdateTargetId = "divResult", OnBegin="showModal", OnSuccess="hideModal" }, new { @id = "formPesquisa" }))
+    {
+        <div class="input-group">
+            <div class="form-group has-feedback has-clear" style="margin-bottom: 0px;">
+                <input type="text" class="form-control" id="playlistLink" name="link" placeholder="Enter youtube playlist or single video link here to download" style="height: 43px; font-size: 17px;"> @*style="height: 43px; font-size: 19px;"*@
+                <span class="form-control-clear glyphicon glyphicon-remove form-control-feedback hidden"></span>
+            </div>
+
+            <span class="input-group-btn">
+                <button type="submit" class="btn btn-danger" id="btnSearch">
+                    <i class="fa fa-youtube-play fa-2x"></i>
+                </button>
+            </span>
+        </div>
+    }
+
+</div>
+
+<!-- Modal de carregamento -->
+<div class="modal-blockUI" id="message">
+    <h3 id="mensagemModal"></h3>
+    <p>
+        <img src="/Content/img/ajax-loader.gif">
+    </p>
+</div>
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script type="text/javascript">
+
+        $(function () {
+
+            // Check e Uncheck os checkboxes dos videos
+            $(document).on('change', '#select_all', function () {
+
+                if ($(this).prop('checked')) {
+                    $('#btnDownload').text("Download todos");
+                }
+                else {
+                    $('#btnDownload').text("Download");
+                }
+
+                $(".checkbox").prop('checked', $(this).prop("checked"));
+            });
+
+            
+            // Click do Botão de Download
+            $(document).on('click', '#btnDownload', function () {
+
+                var $boxes = $('input[name=ckbVideo]:checked');
+
+                var hasCheckboxesSelected = $boxes.length > 0;
+
+                if (hasCheckboxesSelected) {
+                    
+                    var ids = [];
+                    var strVideoIds = "";
+
+                    $boxes.each(function (i, value) {
+                        var id = value.id;
+                        ids.push(id);
+                        strVideoIds = strVideoIds + id + ',';
+                    });
+
+                    strVideoIds = strVideoIds.slice(0, strVideoIds.length - 1);
+
+                    if ($boxes.length > 1) {
+                        $('#mensagemModal').text("Baixando os videos, aguarde um momento...");
+                    } else {
+                        $('#mensagemModal').text("Baixando o video, aguarde um momento...");
+                    }
+
+                    $.blockUI({
+                        message: $('#message'),
+                        css: { width: '275px' }
+                    });
+
+                    $.ajax({
+                        type: 'GET',
+                        url: '/Home/Download',
+                        dataType: 'json',
+                        contentType: "application/json; charset=utf-8",
+                        data: {
+                            "ids": strVideoIds
+                        },
+                        success: function (response) {
+
+                            // a controller retornou um erro
+                            if (response.Status == "Erro") {
+                                $.unblockUI();
+                                showAlertMessage("Erro", response.Message, TYPE_MSG_ERROR);
+                                return;
+                            }
+                            
+                            $.unblockUI();
+                            showAlertMessage("Sucesso", "Download realizo com sucesso !!!", TYPE_MSG_SUCCESS);
+                        },
+                        error: function (erro) {                            
+                            $.unblockUI();
+                            showAlertMessage("Erro ao download: " + erro.responseText, TYPE_MSG_ERROR);
+                        }
+                    });
+
+                } else {
+                    alert("Selecione um video para realizar o download!!");
+                }                
+            });
+        });
+        
+
+        function showModal(response) {
+
+            $('#mensagemModal').text("Carregando, por favor aguarde...");
+
+            $.blockUI({
+                message: $('#message'),
+                css: { width: '275px' }
+            });
+        }
+
+        function hideModal(response) {
+            $.unblockUI();
+        }
+              
+    </script>
+}
+
+
+<div class="row" style="margin-top: 20px" id="divResult">
+    @Html.Partial("_PlaylistVideos", Model)
+</div>

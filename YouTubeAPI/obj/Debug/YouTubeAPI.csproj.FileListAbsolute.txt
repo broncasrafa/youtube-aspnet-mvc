@@ -1,0 +1,287 @@
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\ApplicationInsights.config
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.exe
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.exe.config
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.rsp
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csi.exe
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csi.rsp
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.AppContext.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.exe
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.exe.config
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.rsp
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.dll.config
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.pdb
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Antlr3.Runtime.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Core.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.PlatformServices.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Web.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Newtonsoft.Json.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Helpers.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Mvc.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Optimization.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Razor.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\WebGrease.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Core.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Newtonsoft.Json.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Helpers.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Mvc.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Optimization.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Razor.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Antlr3.Runtime.pdb
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Web.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.csprojResolveAssemblyReference.cache
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.pdb
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.Mvc.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.YouTube.v3.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.Client.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.Extensions.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.YouTube.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Http.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.Mvc.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.YouTube.v3.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Http.xml
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\YoutubeExtractor.dll
+C:\Users\rfrancisco\Documents\Visual Studio 2017\Projects\Mvc\YouTubeAPI.Mvc\YouTubeAPI\bin\YoutubeExtractor.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\ApplicationInsights.config
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.exe
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.exe.config
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.rsp
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csi.exe
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csi.rsp
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.AppContext.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.exe
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.exe.config
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.rsp
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\VBCSCompiler.exe
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.dll.config
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.pdb
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Antlr3.Runtime.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.Mvc.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.PlatformServices.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Core.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.PlatformServices.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.YouTube.v3.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.Client.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.Extensions.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.YouTube.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Web.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Newtonsoft.Json.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Net.Http.Formatting.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Helpers.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Http.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Mvc.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Optimization.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Razor.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Razor.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\WebGrease.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YoutubeExtractor.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.Mvc.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Core.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.YouTube.v3.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Newtonsoft.Json.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Net.Http.Formatting.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Http.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Helpers.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Mvc.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Optimization.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Razor.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Razor.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Antlr3.Runtime.pdb
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YoutubeExtractor.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.ApplicationInsights.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Web.xml
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.csprojResolveAssemblyReference.cache
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.dll
+C:\_My-Projects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.pdb
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\ApplicationInsights.config
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.exe
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.exe.config
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csc.rsp
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csi.exe
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\csi.rsp
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.AppContext.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.exe
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.exe.config
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\vbc.rsp
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\VBCSCompiler.exe
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.dll.config
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YouTubeAPI.pdb
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Antlr3.Runtime.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.Mvc.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.PlatformServices.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Core.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.PlatformServices.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.YouTube.v3.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.Client.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.Extensions.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.GData.YouTube.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Web.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Newtonsoft.Json.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Net.Http.Formatting.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Helpers.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Http.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Mvc.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Optimization.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Razor.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Razor.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\WebGrease.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YoutubeExtractor.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Auth.Mvc.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.Core.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Google.Apis.YouTube.v3.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Newtonsoft.Json.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Net.Http.Formatting.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Http.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Helpers.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Mvc.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Optimization.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.Razor.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\System.Web.WebPages.Razor.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Antlr3.Runtime.pdb
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\YoutubeExtractor.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.ApplicationInsights.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\Microsoft.AI.Web.xml
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.csprojAssemblyReference.cache
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.csproj.CopyComplete
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.dll
+C:\_MyProjects\_Mvc\Projects\YouTubeAPI.Mvc\YouTubeAPI\obj\Debug\YouTubeAPI.pdb
